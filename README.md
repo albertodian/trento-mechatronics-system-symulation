@@ -1,6 +1,6 @@
 # Homework Submissions - Alberto Dian
 
-This repository contains the solutions to the following homework assignments, both provided in **Maple worksheet format (.mw)**:
+This repository contains the solutions to the following homework assignments, both provided in **Maple worksheet format (.mw)**.
 
 ## 1. **Homework 1: Photovoltaic System Modeling**
 This document discusses photovoltaic (PV) cell modeling for plant simulation using both single-diode and double-diode models.
