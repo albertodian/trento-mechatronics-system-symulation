@@ -2,7 +2,7 @@
 
 This repository contains the solutions to the following homework assignments, both provided in **Maple worksheet format (.mw)**:
 
-## 1. **Homework 1: Photovoltaic System Modeling (`Homework01-Photovoltaic system.pdf`)**
+## 1. **Homework 1: Photovoltaic System Modeling**
 This document discusses photovoltaic (PV) cell modeling for plant simulation using both single-diode and double-diode models.
 
 ### Topics covered include:
@@ -12,7 +12,7 @@ This document discusses photovoltaic (PV) cell modeling for plant simulation usi
 - **Series and parallel PV configurations**: Connections of photovoltaic cells and arrays, and their impact on current, voltage, and system efficiency.
 - **Simulation model**: Analysis of panels connected to external loads and batteries under various power requests.
 
-## 2. **Homework 2: Spring-Loaded Mechanical System (`Homework2-spring-loaded-mech-sys.pdf`)**
+## 2. **Homework 2: Spring-Loaded Mechanical System**
 This assignment focuses on modeling a spring-loaded mechanical system involving three masses connected by bars and spring-damper systems.
 
 ### Topics include:
